@@ -1,1 +1,1 @@
-(1) the command display the contest of the current directory.
+this command move the file betty from /tmp to /tmp/my_first_directory
