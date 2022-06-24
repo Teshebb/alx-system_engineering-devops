@@ -1,4 +1,3 @@
- #!/bin/bash
-ipwd
-i
+#!/bin/bash
+pwd
 
