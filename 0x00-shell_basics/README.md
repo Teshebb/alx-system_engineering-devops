@@ -1,1 +1,1 @@
-1. this command display the current working directory. 2 it will show the currently active parent directory.
+ 1.the command will dispaly the absolute path of the current working directory.
