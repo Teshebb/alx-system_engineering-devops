@@ -1,1 +1,1 @@
- 1.the command will dispaly the absolute path of the current working directory.
+1.this command display the absolute path of the curent working directory
