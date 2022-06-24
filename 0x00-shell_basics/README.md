@@ -1,1 +1,1 @@
- 1. this command to changes the working directory to users home directory
+Display current directory contents in a long format
