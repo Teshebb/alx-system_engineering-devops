@@ -1,3 +1,1 @@
-
-
-Display current directory contents long format,with user and group id, hiden files.
+Write a script that prints the absolute path name of the current working directory.
