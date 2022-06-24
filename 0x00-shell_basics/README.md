@@ -1,1 +1,1 @@
-pwd will display the current working directory
+(1) the command display the contest of the current directory.
